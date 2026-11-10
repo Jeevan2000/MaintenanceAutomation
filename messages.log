@@ -1,0 +1,302 @@
+[2026-08-15T16:56:49+00:00] -5387012382 Tom_Rider12: Jeevan
+[2026-08-15T16:56:52+00:00] -5387012382 Tom_Rider12: Sunil
+[2026-08-15T16:56:55+00:00] -5387012382 Tom_Rider12: Ferro towers
+[2026-08-15T16:57:28+00:00] -5387012382 Tom_Rider12: Cgchc
+[2026-08-15T16:57:30+00:00] -5387012382 Tom_Rider12: Xugxixkxb
+[2026-08-15T16:57:31+00:00] -5387012382 Tom_Rider12: Gh,jg,
+[2026-08-17T17:19:04.956435] Parsed 1 records from message 21 from chat -5387012382
+[2026-08-17T17:19:04.957911] Parsed 1 records from message 22 from chat -5387012382
+[2026-08-17T17:19:04.958579] Parsed 1 records from message 23 from chat -5387012382
+[2026-08-17T17:19:05.028411] Appended 3 records to Maintenance sheet
+[2026-08-17T17:19:05.125067] Apply result: updated=13 skipped=1
+[2026-08-17T17:19:06.000738] Acknowledgement sent to -5387012382: Processed maintenance entries:
+Flat 102: MARCH -> 2026-08-16 (1500)
+Flat 102: APRIL -> 2026-09-16 (1500)
+Flat 202: MAY -> 2026-08-17 (1500)
+Flat 202: JUNE -> 2026-08-17 (1500)
+Flat 202: JULY -> 2026-08-17 (1500)
+Flat 202: DECEMBER -> 2026-08-17 (1500)
+Flat 502: JANUARY -> 2026-08-11 (1500)
+Flat 502: FEBRUARY -> 2026-08-11 (1500)
+Flat 502: MARCH -> 2026-08-11 (1500)
+Flat 502: APRIL -> 2026-08-11 (1500)
+[2026-08-17T17:19:06.002364] Saved last update_id: 415801356
+[2026-08-17T17:21:26.718132] Parsed 1 records from message 25 from chat -5387012382
+[2026-08-17T17:21:26.794772] Appended 1 records to Maintenance sheet
+[2026-08-17T17:21:26.890596] Apply result: updated=11 skipped=2
+[2026-08-17T17:21:27.566340] Acknowledgement sent to -5387012382: Processed maintenance entries:
+Flat 102: MAY -> 2026-08-16 (1500)
+Flat 102: JUNE -> 2026-09-16 (1500)
+Flat 502: JULY -> 2026-08-11 (1500)
+Flat 502: AUGUST -> 2026-08-11 (1500)
+Flat 502: SEPTEMBER -> 2026-08-11 (1500)
+Flat 502: OCTOBER -> 2026-08-11 (1500)
+Flat 402: FEBRUARY -> 2026-08-17 (1500)
+Flat 502: NOVEMBER -> 2026-08-17 (1500)
+Flat 502: DECEMBER -> 2026-08-17 (1500)
+Flat 401: FEBRUARY -> 2026-08-12 (1500)
+[2026-08-17T17:21:27.569977] Saved last update_id: 415801357
+[2026-08-19T16:01:02.560833] Parsed 1 records from message 27 from chat -5387012382
+[2026-08-19T16:01:02.655643] Appended 1 records to Maintenance sheet
+[2026-08-19T16:01:02.752398] Apply result: updated=17 skipped=1
+[2026-08-19T16:01:03.748590] Acknowledgement sent to -5387012382: Processed maintenance entries:
+Flat 102: JANUARY -> 2026-08-16 (1500)
+Flat 102: FEBRUARY -> 2026-09-16 (1500)
+Flat 202: JANUARY -> 2026-08-17 (1500)
+Flat 202: FEBRUARY -> 2026-08-17 (1500)
+Flat 202: MARCH -> 2026-08-17 (1500)
+Flat 202: APRIL -> 2026-08-17 (1500)
+Flat 502: MARCH -> 2026-08-11 (1500)
+Flat 502: APRIL -> 2026-08-11 (1500)
+Flat 502: MAY -> 2026-08-11 (1500)
+Flat 502: JUNE -> 2026-08-11 (1500)
+[2026-08-19T16:01:03.750969] Saved last update_id: 415801358
+[2026-08-19T16:02:14.332619] Parsed 1 records from message 29 from chat -5387012382
+[2026-08-19T16:02:14.406763] Appended 1 records to Maintenance sheet
+[2026-08-19T16:02:14.519445] Apply result: updated=17 skipped=2
+[2026-08-19T16:02:15.369886] Acknowledgement sent to -5387012382: Processed maintenance entries:
+Flat 102: MARCH -> 2026-08-16 (1500)
+Flat 102: APRIL -> 2026-09-16 (1500)
+Flat 202: MAY -> 2026-08-17 (1500)
+Flat 202: JUNE -> 2026-08-17 (1500)
+Flat 202: JULY -> 2026-08-17 (1500)
+Flat 202: AUGUST -> 2026-08-17 (1500)
+Flat 502: SEPTEMBER -> 2026-08-11 (1500)
+Flat 502: OCTOBER -> 2026-08-11 (1500)
+Flat 502: NOVEMBER -> 2026-08-11 (1500)
+Flat 502: DECEMBER -> 2026-08-11 (1500)
+[2026-08-19T16:02:15.372753] Saved last update_id: 415801359
+[2026-08-19T16:02:34.242535] Stopping poll loop (received stop signal)
+[2026-10-17T17:16:28.510125+00:00] Rejected /mnt command: Existing Paid Till is not numeric: datetime.datetime(2026, 1, 1, 0, 0)
+[2026-10-17T17:16:29.771372+00:00] Saved last update_id: 415801360
+[2026-10-17T17:16:59.177062+00:00] Rejected /mnt command: Existing Paid Till is not numeric: datetime.datetime(2026, 1, 1, 0, 0)
+[2026-10-17T17:17:00.109927+00:00] Saved last update_id: 415801361
+[2026-10-17T17:21:55.146586+00:00] Stopping poll loop
+[2026-10-17T17:22:16.944524+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:18.057360+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:18.720370+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:19.479413+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:20.140156+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:20.795100+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:21.496888+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:22.216107+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:23.549868+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:24.212279+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:25.470642+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:26.127210+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:27.333529+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:28.553376+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:30.045313+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:30.766237+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:31.467897+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:32.194775+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:32.919956+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:34.547389+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:35.548000+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:37.249243+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:37.924860+00:00] Workbook update failed for Telegram update 415801362: [Errno 13] Permission denied: 'FerroTowerMainteance.xlsx'
+[2026-10-17T17:22:40.485781+00:00] Recorded /mnt for flat 102 in workbook row 15
+[2026-10-17T17:22:41.806755+00:00] Saved last update_id: 415801362
+[2026-10-17T17:27:35.902647+00:00] Stopping poll loop
+[2026-10-17T17:27:45.752944+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T17:27:45.753439+00:00] Starting Telegram long-poll loop at offset 415801363
+[2026-10-17T17:28:35.265339+00:00] Received Telegram update_id=415801363
+[2026-10-17T17:28:35.265760+00:00] Received message_id=37 chat_id=-5387012382: '/mnt 101 1500'
+[2026-10-17T17:28:35.266192+00:00] Processing /mnt command in update_id=415801363
+[2026-10-17T17:28:35.296622+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 16, flat=101, paid_date=17-Oct-2026, amount=1500, balance=3000
+[2026-10-17T17:28:36.219480+00:00] Acknowledgement sent for update_id=415801363
+[2026-10-17T17:28:36.223521+00:00] Update_id=415801363 processing complete; state saved
+[2026-10-17T17:30:02.256017+00:00] Received Telegram update_id=415801364
+[2026-10-17T17:30:02.257727+00:00] Received message_id=39 chat_id=-5387012382: '/mnt 201 6000'
+[2026-10-17T17:30:02.259082+00:00] Processing /mnt command in update_id=415801364
+[2026-10-17T17:30:02.280090+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 17, flat=201, paid_date=17-Oct-2026, amount=6000, balance=-3000
+[2026-10-17T17:30:03.208582+00:00] Acknowledgement sent for update_id=415801364
+[2026-10-17T17:30:03.214349+00:00] Update_id=415801364 processing complete; state saved
+[2026-10-17T17:31:50.750865+00:00] Received Telegram update_id=415801365
+[2026-10-17T17:31:50.751772+00:00] Received message_id=41 chat_id=-5387012382: '/mnt 401 7500'
+[2026-10-17T17:31:50.752444+00:00] Processing /mnt command in update_id=415801365
+[2026-10-17T17:31:50.795794+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 18, flat=401, paid_date=17-Oct-2026, amount=7500, balance=37500
+[2026-10-17T17:31:51.694880+00:00] Acknowledgement sent for update_id=415801365
+[2026-10-17T17:31:51.701869+00:00] Update_id=415801365 processing complete; state saved
+[2026-10-17T17:32:32.544282+00:00] Received Telegram update_id=415801366
+[2026-10-17T17:32:32.544761+00:00] Received message_id=43 chat_id=-5387012382: '/mnt 102 1500'
+[2026-10-17T17:32:32.545026+00:00] Processing /mnt command in update_id=415801366
+[2026-10-17T17:32:32.572240+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 19, flat=102, paid_date=17-Oct-2026, amount=1500, balance=1500
+[2026-10-17T17:32:33.327505+00:00] Acknowledgement sent for update_id=415801366
+[2026-10-17T17:32:33.333821+00:00] Update_id=415801366 processing complete; state saved
+[2026-10-17T17:38:34.525251+00:00] Stopping poll loop
+[2026-10-17T17:47:46.167713+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T17:47:46.169036+00:00] Starting Telegram long-poll loop at offset 415801367
+[2026-10-17T17:48:14.971711+00:00] Received Telegram update_id=415801367
+[2026-10-17T17:48:14.973323+00:00] Received message_id=45 chat_id=-5387012382: '/mnt 301 1500'
+[2026-10-17T17:48:14.974637+00:00] Processing /mnt command in update_id=415801367
+[2026-10-17T17:48:15.022301+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 20, flat=301, paid_date=17-Oct-2026, amount=1500, balance=6000
+[2026-10-17T17:48:15.948011+00:00] Acknowledgement sent for update_id=415801367
+[2026-10-17T17:48:15.959712+00:00] Update_id=415801367 processing complete; state saved
+[2026-10-17T17:48:35.516699+00:00] Received Telegram update_id=415801368
+[2026-10-17T17:48:35.518331+00:00] Received message_id=47 chat_id=-5387012382: '/mnt 302 1500 16-10-2026'
+[2026-10-17T17:48:35.519539+00:00] Processing /mnt command in update_id=415801368
+[2026-10-17T17:48:35.572000+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 21, flat=302, paid_date=16-Oct-2026, amount=1500, balance=1500
+[2026-10-17T17:48:36.283354+00:00] Acknowledgement sent for update_id=415801368
+[2026-10-17T17:48:36.289291+00:00] Update_id=415801368 processing complete; state saved
+[2026-10-17T17:48:46.541346+00:00] Received Telegram update_id=415801369
+[2026-10-17T17:48:46.542735+00:00] Received message_id=49 chat_id=-5387012382: '/mnt 402 1500'
+[2026-10-17T17:48:46.544194+00:00] Processing /mnt command in update_id=415801369
+[2026-10-17T17:48:46.594236+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 22, flat=402, paid_date=17-Oct-2026, amount=1500, balance=0
+[2026-10-17T17:48:47.309431+00:00] Acknowledgement sent for update_id=415801369
+[2026-10-17T17:48:47.320824+00:00] Update_id=415801369 processing complete; state saved
+[2026-10-17T17:48:57.113321+00:00] Received Telegram update_id=415801370
+[2026-10-17T17:48:57.114706+00:00] Received message_id=51 chat_id=-5387012382: '/mnt 501 3000'
+[2026-10-17T17:48:57.115825+00:00] Processing /mnt command in update_id=415801370
+[2026-10-17T17:48:57.163386+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 23, flat=501, paid_date=17-Oct-2026, amount=3000, balance=-3000
+[2026-10-17T17:48:58.047694+00:00] Acknowledgement sent for update_id=415801370
+[2026-10-17T17:48:58.059522+00:00] Update_id=415801370 processing complete; state saved
+[2026-10-17T17:49:08.179238+00:00] Received Telegram update_id=415801371
+[2026-10-17T17:49:08.180608+00:00] Received message_id=53 chat_id=-5387012382: '/mnt 502 1500'
+[2026-10-17T17:49:08.181856+00:00] Processing /mnt command in update_id=415801371
+[2026-10-17T17:49:08.237868+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 24, flat=502, paid_date=17-Oct-2026, amount=1500, balance=-1500
+[2026-10-17T17:49:08.937519+00:00] Acknowledgement sent for update_id=415801371
+[2026-10-17T17:49:08.949055+00:00] Update_id=415801371 processing complete; state saved
+[2026-10-17T17:49:18.715496+00:00] Received Telegram update_id=415801372
+[2026-10-17T17:49:18.716974+00:00] Received message_id=55 chat_id=-5387012382: '/mnt 601 1500'
+[2026-10-17T17:49:18.718289+00:00] Processing /mnt command in update_id=415801372
+[2026-10-17T17:49:18.774437+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 25, flat=601, paid_date=17-Oct-2026, amount=1500, balance=4500
+[2026-10-17T17:49:19.556864+00:00] Acknowledgement sent for update_id=415801372
+[2026-10-17T17:49:19.568798+00:00] Update_id=415801372 processing complete; state saved
+[2026-10-17T17:49:29.795262+00:00] Received Telegram update_id=415801373
+[2026-10-17T17:49:29.796587+00:00] Received message_id=57 chat_id=-5387012382: '/report'
+[2026-10-17T17:49:29.797772+00:00] Processing /report command in update_id=415801373
+[2026-10-17T17:49:29.931788+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T17:49:30.846460+00:00] Sent /report to chat_id=-5387012382 for update_id=415801373
+[2026-10-17T17:49:30.851445+00:00] Update_id=415801373 processing complete; state saved
+[2026-10-17T17:52:00.226575+00:00] Stopping poll loop
+[2026-10-17T17:52:56.197617+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T17:52:56.198363+00:00] Starting Telegram long-poll loop at offset 415801374
+[2026-10-17T17:53:30.762140+00:00] Stopping poll loop
+[2026-10-17T17:53:48.309038+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T17:53:48.309858+00:00] Starting Telegram long-poll loop at offset 415801374
+[2026-10-17T17:53:49.082108+00:00] Received Telegram update_id=415801374
+[2026-10-17T17:53:49.083312+00:00] Received message_id=59 chat_id=-5387012382: '/report'
+[2026-10-17T17:53:49.084151+00:00] Processing /report command in update_id=415801374
+[2026-10-17T17:53:49.370069+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T17:53:51.829843+00:00] Sent /report to chat_id=-5387012382 for update_id=415801374
+[2026-10-17T17:53:51.843156+00:00] Update_id=415801374 processing complete; state saved
+[2026-10-17T17:58:17.698423+00:00] Stopping poll loop
+[2026-10-17T17:58:21.168962+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T17:58:21.169746+00:00] Starting Telegram long-poll loop at offset 415801375
+[2026-10-17T17:58:40.818051+00:00] Received Telegram update_id=415801375
+[2026-10-17T17:58:40.819462+00:00] Received message_id=61 chat_id=-5387012382: '/mnt 401 7500'
+[2026-10-17T17:58:40.821209+00:00] Processing /mnt command in update_id=415801375
+[2026-10-17T17:58:40.863342+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 25, flat=401, paid_date=17-Oct-2026, amount=7500, balance=37500
+[2026-10-17T17:58:41.850277+00:00] Acknowledgement sent for update_id=415801375
+[2026-10-17T17:58:41.861317+00:00] Update_id=415801375 processing complete; state saved
+[2026-10-17T17:58:57.394631+00:00] Received Telegram update_id=415801376
+[2026-10-17T17:58:57.395545+00:00] Received message_id=63 chat_id=-5387012382: '/report'
+[2026-10-17T17:58:57.396656+00:00] Processing /report command in update_id=415801376
+[2026-10-17T17:58:57.686129+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T17:59:01.190200+00:00] Sent /report to chat_id=-5387012382 for update_id=415801376
+[2026-10-17T17:59:01.201789+00:00] Update_id=415801376 processing complete; state saved
+[2026-10-17T18:04:04.051483+00:00] Stopping poll loop
+[2026-10-17T18:04:06.853457+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-17T18:04:06.854083+00:00] Starting Telegram long-poll loop at offset 415801377
+[2026-10-17T18:04:24.905432+00:00] Received Telegram update_id=415801377
+[2026-10-17T18:04:24.906797+00:00] Received message_id=65 chat_id=-5387012382: '/report'
+[2026-10-17T18:04:24.907839+00:00] Processing /report command in update_id=415801377
+[2026-10-17T18:04:25.199395+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T18:04:28.266921+00:00] Sent /report to chat_id=-5387012382 for update_id=415801377
+[2026-10-17T18:04:28.280371+00:00] Update_id=415801377 processing complete; state saved
+[2026-10-17T18:06:36.489296+00:00] Received Telegram update_id=415801378
+[2026-10-17T18:06:36.490791+00:00] Received message_id=67 chat_id=-5387012382: '/mnt 401 3000'
+[2026-10-17T18:06:36.491959+00:00] Processing /mnt command in update_id=415801378
+[2026-10-17T18:06:36.546297+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 26, flat=401, paid_date=17-Oct-2026, amount=3000, balance=34500
+[2026-10-17T18:06:37.553495+00:00] Acknowledgement sent for update_id=415801378
+[2026-10-17T18:06:37.564085+00:00] Update_id=415801378 processing complete; state saved
+[2026-10-17T18:06:58.859577+00:00] Received Telegram update_id=415801379
+[2026-10-17T18:06:58.861010+00:00] Received message_id=69 chat_id=-5387012382: '/report'
+[2026-10-17T18:06:58.862272+00:00] Processing /report command in update_id=415801379
+[2026-10-17T18:06:59.158866+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T18:07:01.709027+00:00] Sent /report to chat_id=-5387012382 for update_id=415801379
+[2026-10-17T18:07:01.722847+00:00] Update_id=415801379 processing complete; state saved
+[2026-10-17T18:07:16.158340+00:00] Received Telegram update_id=415801380
+[2026-10-17T18:07:16.159689+00:00] Received message_id=71 chat_id=-5387012382: '/mnt 602 4500'
+[2026-10-17T18:07:16.160816+00:00] Processing /mnt command in update_id=415801380
+[2026-10-17T18:07:16.161694+00:00] Rejected /mnt command: Unknown flat 602. Please use one of: 101, 102, 201, 202, 301, 302, 401, 402, 501, 502, 601
+[2026-10-17T18:07:16.973346+00:00] Acknowledgement sent for update_id=415801380
+[2026-10-17T18:07:16.984036+00:00] Update_id=415801380 processing complete; state saved
+[2026-10-17T18:07:30.906352+00:00] Received Telegram update_id=415801381
+[2026-10-17T18:07:30.908009+00:00] Received message_id=73 chat_id=-5387012382: '/mntt'
+[2026-10-17T18:07:30.908892+00:00] No maintenance command in message_id=73; ignored
+[2026-10-17T18:07:30.920197+00:00] Update_id=415801381 processing complete; state saved
+[2026-10-17T18:08:03.176360+00:00] Received Telegram update_id=415801382
+[2026-10-17T18:08:03.177708+00:00] Received message_id=74 chat_id=-5387012382: '/mnt 501 5000'
+[2026-10-17T18:08:03.179233+00:00] Processing /mnt command in update_id=415801382
+[2026-10-17T18:08:03.216673+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 27, flat=501, paid_date=17-Oct-2026, amount=5000, balance=-8000
+[2026-10-17T18:08:04.956966+00:00] Acknowledgement sent for update_id=415801382
+[2026-10-17T18:08:04.968293+00:00] Update_id=415801382 processing complete; state saved
+[2026-10-17T18:08:26.004282+00:00] Received Telegram update_id=415801383
+[2026-10-17T18:08:26.005645+00:00] Received message_id=76 chat_id=-5387012382: '/report'
+[2026-10-17T18:08:26.007573+00:00] Processing /report command in update_id=415801383
+[2026-10-17T18:08:26.306612+00:00] Generated /report for 11 flats as of 17-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-17T18:08:32.055022+00:00] Sent /report to chat_id=-5387012382 for update_id=415801383
+[2026-10-17T18:08:32.066147+00:00] Update_id=415801383 processing complete; state saved
+[2026-10-17T18:08:44.362531+00:00] Stopping poll loop
+[2026-10-18T07:22:00.341702+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-18T07:22:00.348310+00:00] Starting Telegram long-poll loop at offset 415801384
+[2026-10-18T07:22:01.090350+00:00] Received Telegram update_id=415801384
+[2026-10-18T07:22:01.091697+00:00] Received message_id=78 chat_id=-5387012382: '/report'
+[2026-10-18T07:22:01.094137+00:00] Processing /report command in update_id=415801384
+[2026-10-18T07:22:01.381547+00:00] Generated /report for 11 flats as of 18-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-18T07:22:03.650790+00:00] Sent /report to chat_id=-5387012382 for update_id=415801384
+[2026-10-18T07:22:03.656624+00:00] Update_id=415801384 processing complete; state saved
+[2026-10-18T07:22:03.658135+00:00] Received Telegram update_id=415801385
+[2026-10-18T07:22:03.659650+00:00] Received message_id=79 chat_id=-5387012382: '/mnt 401 9000'
+[2026-10-18T07:22:03.660672+00:00] Processing /mnt command in update_id=415801385
+[2026-10-18T07:22:03.696000+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 25, flat=401, paid_date=18-Oct-2026, amount=9000, balance=36000
+[2026-10-18T07:22:04.058546+00:00] Acknowledgement sent for update_id=415801385
+[2026-10-18T07:22:04.071651+00:00] Update_id=415801385 processing complete; state saved
+[2026-10-18T07:26:59.174543+00:00] Received Telegram update_id=415801386
+[2026-10-18T07:26:59.176117+00:00] Received message_id=82 chat_id=-5387012382: '/report'
+[2026-10-18T07:26:59.177779+00:00] Processing /report command in update_id=415801386
+[2026-10-18T07:26:59.483743+00:00] Generated /report for 11 flats as of 18-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-18T07:27:02.350555+00:00] Sent /report to chat_id=-5387012382 for update_id=415801386
+[2026-10-18T07:27:02.363132+00:00] Update_id=415801386 processing complete; state saved
+[2026-10-18T07:27:42.593465+00:00] Received Telegram update_id=415801387
+[2026-10-18T07:27:42.594881+00:00] Received message_id=84 chat_id=-5387012382: '/mnt 401 7500'
+[2026-10-18T07:27:42.596364+00:00] Processing /mnt command in update_id=415801387
+[2026-10-18T07:27:42.641144+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 26, flat=401, paid_date=18-Oct-2026, amount=7500, balance=28500
+[2026-10-18T07:27:43.721230+00:00] Acknowledgement sent for update_id=415801387
+[2026-10-18T07:27:43.732299+00:00] Update_id=415801387 processing complete; state saved
+[2026-10-18T07:27:58.800577+00:00] Stopping poll loop
+[2026-10-18T07:28:52.608734+00:00] Bot started. Workbook: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx; log file: C:\Jeevan\FerroTowerAutomation\messages.log
+[2026-10-18T07:28:52.609476+00:00] Starting Telegram long-poll loop at offset 415801388
+[2026-10-18T07:28:53.254263+00:00] Received Telegram update_id=415801388
+[2026-10-18T07:28:53.255519+00:00] Received message_id=86 chat_id=-5387012382: '/mnt 101 7500'
+[2026-10-18T07:28:53.257547+00:00] Processing /mnt command in update_id=415801388
+[2026-10-18T07:28:53.313101+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 27, flat=101, paid_date=18-Oct-2026, amount=7500, balance=-4500
+[2026-10-18T07:28:54.173602+00:00] Acknowledgement sent for update_id=415801388
+[2026-10-18T07:28:54.185455+00:00] Update_id=415801388 processing complete; state saved
+[2026-10-18T07:28:54.188160+00:00] Received Telegram update_id=415801389
+[2026-10-18T07:28:54.190328+00:00] Received message_id=87 chat_id=-5387012382: '/mnt 102 3000'
+[2026-10-18T07:28:54.191402+00:00] Processing /mnt command in update_id=415801389
+[2026-10-18T07:28:54.231384+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 28, flat=102, paid_date=18-Oct-2026, amount=3000, balance=-1500
+[2026-10-18T07:28:55.095224+00:00] Acknowledgement sent for update_id=415801389
+[2026-10-18T07:28:55.106781+00:00] Update_id=415801389 processing complete; state saved
+[2026-10-18T07:28:55.108355+00:00] Received Telegram update_id=415801390
+[2026-10-18T07:28:55.109333+00:00] Received message_id=88 chat_id=-5387012382: '/mnt 302 3000 10-10-2026'
+[2026-10-18T07:28:55.110445+00:00] Processing /mnt command in update_id=415801390
+[2026-10-18T07:28:55.156074+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 29, flat=302, paid_date=10-Oct-2026, amount=3000, balance=-1500
+[2026-10-18T07:28:55.611064+00:00] Acknowledgement sent for update_id=415801390
+[2026-10-18T07:28:55.616494+00:00] Update_id=415801390 processing complete; state saved
+[2026-10-18T07:28:55.617589+00:00] Received Telegram update_id=415801391
+[2026-10-18T07:28:55.618489+00:00] Received message_id=89 chat_id=-5387012382: '/mnt 601 9000'
+[2026-10-18T07:28:55.619899+00:00] Processing /mnt command in update_id=415801391
+[2026-10-18T07:28:55.675283+00:00] Workbook updated successfully: C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx, sheet row 30, flat=601, paid_date=18-Oct-2026, amount=9000, balance=0
+[2026-10-18T07:28:56.118454+00:00] Acknowledgement sent for update_id=415801391
+[2026-10-18T07:28:56.131018+00:00] Update_id=415801391 processing complete; state saved
+[2026-10-18T07:28:56.132895+00:00] Received Telegram update_id=415801392
+[2026-10-18T07:28:56.134220+00:00] Received message_id=90 chat_id=-5387012382: '/report'
+[2026-10-18T07:28:56.135518+00:00] Processing /report command in update_id=415801392
+[2026-10-18T07:28:56.459598+00:00] Generated /report for 11 flats as of 18-Oct-2026 from C:\Jeevan\FerroTowerAutomation\FerroTowerMainteance.xlsx
+[2026-10-18T07:28:58.679405+00:00] Sent /report to chat_id=-5387012382 for update_id=415801392
+[2026-10-18T07:28:58.691544+00:00] Update_id=415801392 processing complete; state saved
+[2026-10-18T07:32:19.579000+00:00] Stopping poll loop
