@@ -21,17 +21,17 @@ Supported flats and owners:
 
 | Flat | Owner |
 | --- | --- |
-| 101 | SANIDHYA SURANA |
-| 102 | SUNIL CHHAJED |
-| 201 | SANIDHYA SURANA |
-| 202 | SAMPATLAL DESLADA |
-| 301 | SANDIP LAGAD |
-| 302 | SWAWAND THORAT |
-| 401 | DIPAK BADGUJAR |
-| 402 | VIJAY KHADE |
-| 501 | MACCHINDRA RASKAR |
-| 502 | SUDHIR SHIRKE |
-| 601 | PRACHEER JOSHI |
+| 101 | SANIDHYA  |
+| 102 | SUNIL  |
+| 201 | SANIDHYA  |
+| 202 | SAMPATLAL  |
+| 301 | SANDIP  |
+| 302 | SWAWAND  |
+| 401 | DIPAK  |
+| 402 | VIJAY  |
+| 501 | MACCHINDRA  |
+| 502 | SUDHIR  |
+| 601 | PRACHEER  |
 
 ## Ledger calculations
 
